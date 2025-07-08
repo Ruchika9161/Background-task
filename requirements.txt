@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+celery
+redis
+python-multipart
+opencv-python
+pydantic-settings

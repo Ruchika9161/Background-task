@@ -1,0 +1,2 @@
+# This file ensures the result_images directory is tracked in git
+# The directory contents will be ignored by .gitignore 
