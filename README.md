@@ -221,4 +221,4 @@ Modify `config.py` to add new configuration options and update the `Settings` cl
 
 ## License
 
-This project is available for educational and commercial use. 
+This project is available for educational and commercial use.
